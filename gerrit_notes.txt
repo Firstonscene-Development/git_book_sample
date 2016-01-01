@@ -1,0 +1,3 @@
+Configuration of rules:
+https://gerrit-review.googlesource.com/Documentation/prolog-cookbook.html
+
